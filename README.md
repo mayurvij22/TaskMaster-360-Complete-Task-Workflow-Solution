@@ -12,7 +12,7 @@ A simple Task Manager application built using the MERN (MongoDB, Express, React,
 ## Technologies Used
 - **Frontend**: React, Axios, Tailwind CSS
 - **Backend**: Node.js, Express.js, MongoDB, Mongoose
-- **Database**: MongoDB (Atlas or Local)
+- **Database**: MongoDB 
 - **Authentication (Optional)**: JWT, bcrypt
 
 ## Installation & Setup
@@ -53,3 +53,9 @@ GET /api/tasks - Get all tasks
 GET /api/tasks/:id - Get a task by ID
 PUT /api/tasks/:id - Update a task
 DELETE /api/tasks/:id - Delete a task
+
+
+![image](https://github.com/user-attachments/assets/2a49f80d-b6d3-42f4-abc1-d5f6389a58df)
+![image](https://github.com/user-attachments/assets/2d0c25ab-6319-4acb-a2b6-37be7afa5104)
+
+
